@@ -1,0 +1,10 @@
+{
+  "name": "waveform-lab",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "generate": "node generate-presets.cjs",
+    "test": "node tests.cjs"
+  },
+  "license": "GPL-2.0"
+}
